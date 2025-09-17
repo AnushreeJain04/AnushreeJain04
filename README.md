@@ -83,6 +83,6 @@
 ---
 
 <p align="center">
-  <em>"Driven by curiosity, crafting with code."</em><br/>
+  <em>"Programming is a craft worth learning."</em><br/>
   <strong>— Anushree</strong>
 </p>
